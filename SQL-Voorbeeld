@@ -1,0 +1,6 @@
+select first_name, last_name, salary
+from   employees
+where  job = 'SALESMAN'
+and    location = 'AMSTERDAM'
+order
+by     salary desc
