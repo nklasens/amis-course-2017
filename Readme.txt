@@ -1,1 +1,1 @@
-Readme Amis course 2017
+Readme AMIS course 2017
