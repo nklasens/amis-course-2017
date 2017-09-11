@@ -1,4 +1,5 @@
-select first_name, last_name, salary
+select first_name||' 'last_name  as full_name
+,      salary
 from   employees
 where  job = 'SALESMAN'
 and    location = 'AMSTERDAM'
